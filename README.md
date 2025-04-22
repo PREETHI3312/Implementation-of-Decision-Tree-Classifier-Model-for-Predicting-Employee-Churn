@@ -69,7 +69,10 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 
 ![image](https://github.com/user-attachments/assets/e71c7d5f-fc26-4a45-8fc5-3408582748ca)
 
+
 ![image](https://github.com/user-attachments/assets/32a8a33e-5f5b-482e-913a-2c59c6f5ca71)
+
+
 
 ![image](https://github.com/user-attachments/assets/3fef50fe-1f72-42fb-a019-4641a835b579)
 
